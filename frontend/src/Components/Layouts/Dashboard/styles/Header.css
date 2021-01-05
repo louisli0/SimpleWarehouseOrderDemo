@@ -1,0 +1,7 @@
+.Root {
+    display: flex;
+    flex-direction: row;
+}
+.Spacer {
+    flex-grow: 1;
+}

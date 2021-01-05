@@ -1,0 +1,23 @@
+{
+    "swagger":"2.0",
+    "info": {
+        "version": "1",
+        "title": "Dispatch-API",
+        "description": "Api",
+        "licence": {
+            "name":"A",
+            "url": ""
+        }
+    },
+    "host": "http://localhost:3200",
+    "basePath": "/api/v1",
+    "tags": [
+        {
+            "name": "Item",
+            "schemes": ["http", "https"],
+            "consumes": ["application/json"],
+            "produces": ["application/json"]
+                
+        }
+    ]
+}

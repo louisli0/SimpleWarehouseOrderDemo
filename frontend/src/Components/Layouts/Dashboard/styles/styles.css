@@ -1,0 +1,12 @@
+.Root {
+    display: flex;
+    flex-direction: column;
+}
+.Spacer {
+    flex-grow: 1;
+}
+
+.Content-Container {
+    margin-top: 70px;
+    padding: 30px;
+}
